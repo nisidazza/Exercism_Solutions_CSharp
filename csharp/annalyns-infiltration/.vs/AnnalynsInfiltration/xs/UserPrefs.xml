@@ -1,3 +1,32 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{7940C39B-3B5D-4EE0-BA5D-BB58516165DA}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AnnalynsInfiltration.cs">
+    <Files>
+      <File FileName="AnnalynsInfiltration.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AnnalynsInfiltration" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="AnnalynsInfiltration">
+            <Node name="AnnalynsInfiltration" expanded="True">
+              <Node name="AnnalynsInfiltrationTests" expanded="True">
+                <Node name="Cannot_free_prisoner_if_everyone_is_asleep_and_pet_dog_is_absent - ac110c1d-c1a2-dde9-257c-d4222b914709" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AnnalynsInfiltration PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
